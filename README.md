@@ -12,3 +12,6 @@ vue --version</pre>
 npm update -g @vue/cli
 # OR
 yarn global upgrade --latest @vue/cli</pre>
+
+<pre>
+npm run electron:serve</pre>
