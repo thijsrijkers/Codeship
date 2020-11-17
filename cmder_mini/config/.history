@@ -1,0 +1,42 @@
+yarn create BitCode todo-react-typescript --typescript
+yarn create react-app BitCode -typescript --typescript
+yarn create react-app Bitcode -typescript --typescript
+yarn create react-app bitcode -typescript --typescript
+npm install -g typescript
+yarn create react-app bitcode desktop-app --typescript
+npx create-react-app bitcodeType
+npx create-react-app bitcodetype
+cd bitcodetype
+sudo npm uninstall -g create-react-app
+cd
+npm uninstall -g create-react-app
+npm uninstall -g bitcode
+ls
+npx create-react-app --version
+npm install -g create-react-app
+npx create-react-app bitcode --typescript
+cd bitcode
+npx create-react-app editor --typescript
+code.
+ccode .
+npx create-react-app bitcodeeditor --template typescript
+yarn add -D electron
+code .
+yarn start: desktop
+npm start:desktop
+yarn start:desktop
+yarn start
+npm build
+npm install electron --save-dev
+npm install react
+cd bitcodeeditor
+yarn build
+electron .
+yarn electron
+node_modules\electron\dist\electron.exe 
+node_modules\electron\dist\electron .
+node_modules\electron\dist\electron.exe D:\cmder_mini\bitcodeeditor\src\App.tsx
+npm run electron
+cd ..
+cd..
+npm start
