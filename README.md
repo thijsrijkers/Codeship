@@ -5,7 +5,7 @@
 <br>
 
 <h2>Developing</h2>
-Here's how to install the dependencies and run the editor locally:
+Here's how to install the dependencies and run the app locally:
 
 <h3>Vue</h3>
 <pre>
