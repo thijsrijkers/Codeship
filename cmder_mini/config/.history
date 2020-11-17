@@ -27,7 +27,6 @@ npm start:desktop
 yarn start:desktop
 yarn start
 npm build
-npm install electron --save-dev
 npm install react
 cd bitcodeeditor
 yarn build
@@ -38,5 +37,37 @@ node_modules\electron\dist\electron .
 node_modules\electron\dist\electron.exe D:\cmder_mini\bitcodeeditor\src\App.tsx
 npm run electron
 cd ..
+cd vue-electron-codeship
+c
+C
+yarn serve: electron
+yarn cache clean @vue/cli-service
+yarn cache clean vue-cli-plugin-electron-builder
+npm install electron -g
+yarn serve:electron --launch 1'
+yarn build:electron
+yarn install
+yarn serve:electron
+npm i
+yarn build electron
+yarn serve electron
+vue create-electron-vue-codeship
+vue create electron-vue-codeship
+npm install --save
+npm run serve
+cd electron
+npm run serve node_modules\electron
+vue add electron-builder
+npm run serve:electron
+npm install --save D:\Codeship\cmder_mini\electron-vue-codeship\electron
+npm main.js
+npm main
+npm start main
 cd..
+npm start.
 npm start
+npm install electron --save-dev [--save-exact]
+npm install electron --save-dev
+npm run serve electron
+cd electron-vue-codeship
+npm run electron:serve

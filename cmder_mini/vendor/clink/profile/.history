@@ -1,0 +1,7 @@
+$ npm install vue
+npm install vue
+yarn global add @vue/cli
+vue --version
+vue create electron-vue-codeship
+cd electron-vue-codeship
+npm run serve
