@@ -8,26 +8,6 @@
   </div>
 </template>
 
-<script>
-export default 
-{
-  name: 'example',
-  data () {
-    return {
-      percentComplete: 0
-    }
-  },
-  mounted() 
-  {
-      const self = this
-      window.addEventListener("keypress", function(e) {
-        // use self instead of this in here
-        console.log(String.fromCharCode(e.keyCode));
-      });
-  }
-}
-</script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
