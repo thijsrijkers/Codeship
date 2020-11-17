@@ -68,6 +68,6 @@ npm install electron --save-dev [--save-exact]
 npm install electron --save-dev
 npm run serve electron
 cd
-cd..
 cd electron-vue-codeship
+cd..
 npm run electron:serve
